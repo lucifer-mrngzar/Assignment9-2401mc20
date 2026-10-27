@@ -8,9 +8,9 @@
 **Course:** Operating Systems  
 **Assignment:** 9 — Page Tables, Lazy Allocation, and Page Replacement
 
-## Project Overview
+## Overview
 
-This project explores three memory-management concepts using the xv6 operating system for x86:
+This assignment explores three memory-management concepts using the xv6 operating system for x86:
 
 1. Inspecting the page-table mappings of a running process.
 2. Implementing lazy memory allocation through page-fault handling.
